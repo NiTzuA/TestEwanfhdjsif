@@ -4,5 +4,7 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    int epic;
+    cout << "Hello World!\n";
+    cin >> epic;
 }
